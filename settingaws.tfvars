@@ -1,4 +1,4 @@
-PROJECT_NAME="next-boilerplate"
+PROJECT_NAME="next-pubadee"
 REPO_ID="poom9091/Next-Boilerplate"
 
 # AWS_ACCESS_KEY
